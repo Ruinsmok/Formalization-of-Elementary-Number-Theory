@@ -1,12 +1,7 @@
 Require Export ssrfun ssrbool ssreflect Utf8_core Setoid List
   SetoidPermutation SetoidList Ring Sorted Constructive_sets Wf_nat
   ProofIrrelevance Permutation ClassicalDescription ChoiceFacts.
-
 (** Math symbols for cut and paste: ∀ ∃ → ↔ ∧ ∨ ¬ ≠ ≤ ≥ ∅ ℕ ℤ ∈ ∉ ⊂ ∑ ∏ λ **)
-(*A2P3, A2P4, A2P5 collaborated with Erika Shan*)
-(*A3P6 collaborated with Jason Tang*)
-(*parts of A4, A5, and A6 collaborated with Jerry Du, Erix Xu, Jackie Zou, and Susan Ho*)
-(** Axioms for the integers. **)
 
 Module Type Z_Axioms.
 
